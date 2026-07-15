@@ -29,3 +29,7 @@ Superstore Sales Dataset
 ## Author
 
 Ayush Singh
+
+
+## deployment link
+https://sales-forecast-dashboard-hxeszvcxdgfn7ogmvhh6ct.streamlit.app/
